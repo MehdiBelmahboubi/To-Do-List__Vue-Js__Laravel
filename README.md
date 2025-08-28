@@ -2,7 +2,6 @@
 
 Une application complète de gestion de tâches développée avec **Laravel** (backend) et **Vue.js** (frontend), incluant l'authentification JWT et les notifications en temps réel.
 
-![To-Do List App]
 ![Laravel](https://img.shields.io/badge/Laravel-10.x-red)
 ![Vue.js](https://img.shields.io/badge/Vue.js-3.x-green)
 ![PHP](https://img.shields.io/badge/PHP-8.2-blue)
